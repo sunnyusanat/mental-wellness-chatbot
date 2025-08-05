@@ -1,0 +1,46 @@
+2025-06-17 22:19:21:
+hi im feeling good
+Sentiment: Positive 😊
+---
+2025-06-17 22:20:23:
+I am not okay
+Sentiment: Negative 😞
+---
+2025-06-17 22:57:21:
+im good
+Sentiment: Positive 😊
+---
+2025-06-18 17:51:39:
+Im good 
+
+Sentiment: Positive 😊
+---
+2025-07-08 20:17:41:
+I'm okay
+
+Sentiment: Positive 😊
+---
+2025-07-08 20:18:09:
+im feeling worse
+
+Sentiment: Negative 😞
+---
+2025-07-08 20:45:32:
+Ijm good
+
+Sentiment: Positive 😊
+---
+2025-07-16 17:10:00:
+feeling too bad
+
+Sentiment: Negative 😞
+---
+
+2025-07-29 21:30:11:
+Today I felt calm and centered.
+Sentiment: Positive 😊
+---
+2025-07-30 09:18:55:
+Woke up with anxiety but trying to stay positive.
+Sentiment: Neutral 😐
+---
