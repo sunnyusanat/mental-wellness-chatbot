@@ -15,18 +15,6 @@ import nltk
 import random
 import calendar
 
-st.title("🚀 Mental Wellness Chatbot (Debug Mode)")
-st.write("✅ This debug section checks file access and Streamlit readiness.")
-
-try:
-    with open("streaks.txt", "r") as f:
-        streak = f.read()
-    st.success(f"🔥 Current Streak: {streak} day(s)")
-except Exception as e:
-    st.error(f"⚠️ Error reading streak file: {e}")
-
-
-
 # In[12]:
 
 
